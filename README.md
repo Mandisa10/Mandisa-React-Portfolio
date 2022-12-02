@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To begin the development, run `npm start` or `yarn start`.
 
-Netlify Deployment Link:
+Netlify Deployment Link: https://mandisa-portfolio.netlify.app
